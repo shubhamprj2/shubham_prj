@@ -7,3 +7,5 @@ lastname : cena
 male = yes
 
 dob : 06/05/1994
+
+sysout(dob);
