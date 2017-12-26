@@ -8,6 +8,8 @@ male = yes
 
 dob : 06/05/1994
 
+city : Hoshangabad
+
 
 sysout(dob);
 
